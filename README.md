@@ -7,10 +7,10 @@ In this repository you can find the 5 projects made by me to complete the Scient
 
 Project view | Project code  
 -------- | --------  
-[Arithmetic Formatter View](https://replit.com/@SiwarNASRI/arithmeticarranger#main.py) | [Arithmetic Arrange Code](/Arithmetic%20Arranger)  
-[Time Calculator View](https://replit.com/@SiwarNASRI/timecalculator#main.py) | [Time Calculator Code](/Time%20Calculator)  
-[Budget App View](https://replit.com/@SiwarNASRI/Budget-App#main.py) | [Budget App Code](/Budget%20App)  
-[Polygon Area Calculator View](https://replit.com/@SiwarNASRI/Polygon-Area-Calculator#main.py) | [Polygon Area Calculator Code](/Polygon%20Area%20Calculator)  
-[Probability Calculator View](https://replit.com/@SiwarNASRI/Probability-Calculator#main.py) | [Probability Calculator Code](/Probability%20Calculator) 
+[Arithmetic Formatter view](https://replit.com/@SiwarNASRI/arithmeticarranger#main.py) | [Arithmetic Arrange code](/Arithmetic%20Arranger)  
+[Time Calculator view](https://replit.com/@SiwarNASRI/timecalculator#main.py) | [Time Calculator code](/Time%20Calculator)  
+[Budget App view](https://replit.com/@SiwarNASRI/Budget-App#main.py) | [Budget App code](/Budget%20App)  
+[Polygon Area Calculator view](https://replit.com/@SiwarNASRI/Polygon-Area-Calculator#main.py) | [Polygon Area Calculator code](/Polygon%20Area%20Calculator)  
+[Probability Calculator view](https://replit.com/@SiwarNASRI/Probability-Calculator#main.py) | [Probability Calculator code](/Probability%20Calculator) 
 
 **NB: For beginners, you will find a detailed description on each line of code.
