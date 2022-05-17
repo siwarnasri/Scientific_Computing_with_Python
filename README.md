@@ -10,7 +10,7 @@ Project view | Project code
 [Arithmetic Formatter](https://replit.com/@SiwarNASRI/arithmeticarranger#main.py) | [Arithmetic Arrange](/fcc-arithmetic-formatter)  
 [Time Calculator](https://replit.com/@SiwarNASRI/timecalculator#main.py) | [Time Calculator](/fcc-time-calculator)  
 [Budget App](https://replit.com/@SiwarNASRI/Budget-App#main.py) | [Budget App](/fcc-budget-app)  
-[Polygon Area Calculator](https://replit.com/@SiwarNASRI/Polygon-Area-Calculator#main.py) | [Polygon Area Calculator](/fcc-polygon-area-calculator)  
+[Polygon Area Calculator](https://replit.com/@SiwarNASRI/Polygon-Area-Calculator#main.py) | [Polygon Area Calculator](/Polygon%20Area%20Calculator)  
 [Probability Calculator](https://replit.com/@SiwarNASRI/Probability-Calculator#main.py) | [Probability Calculator](/fcc-probability-calculator) 
 
-** NB: For beginners, you will find a detailed description on each line of code.
+**NB: For beginners, you will find a detailed description on each line of code.
