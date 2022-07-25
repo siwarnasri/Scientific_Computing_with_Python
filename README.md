@@ -13,4 +13,3 @@ Project view | Project code
 [Polygon Area Calculator view](https://replit.com/@SiwarNASRI/Polygon-Area-Calculator#main.py) | [Polygon Area Calculator code](/Polygon%20Area%20Calculator)  
 [Probability Calculator view](https://replit.com/@SiwarNASRI/Probability-Calculator#main.py) | [Probability Calculator code](/Probability%20Calculator) 
 
-**NB: For beginners, you will find a detailed description on each line of code.
