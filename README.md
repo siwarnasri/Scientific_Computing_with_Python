@@ -12,4 +12,3 @@ Project view | Project code
 [Budget App view](https://replit.com/@SiwarNASRI/Budget-App#main.py) | [Budget App code](/Budget%20App)  
 [Polygon Area Calculator view](https://replit.com/@SiwarNASRI/Polygon-Area-Calculator#main.py) | [Polygon Area Calculator code](/Polygon%20Area%20Calculator)  
 [Probability Calculator view](https://replit.com/@SiwarNASRI/Probability-Calculator#main.py) | [Probability Calculator code](/Probability%20Calculator) 
-
